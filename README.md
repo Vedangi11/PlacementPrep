@@ -3,7 +3,7 @@ PlacementPrep, a personalized end-to-end PlacementPrep, a personalized end-to-en
 
 # Team Members
 - Anjali Kadam
-- Vedangi Kdam
+- Vedangi Kadam
 - Kirti Kathole
 
 # Technologies Used
